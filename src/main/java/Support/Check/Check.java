@@ -1,4 +1,4 @@
 package Support.Check;
 
-public class check {
+public class Check {
 }

@@ -1,6 +1,6 @@
 package Support.Actions;
 
-public class actions {
+public class Actions {
     //Clear input fields --> clearInputField
 
     //
